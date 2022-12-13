@@ -1,0 +1,8 @@
+numpy
+sklearn
+fastprogress
+docopt
+transformers
+pandas
+ekphrasis
+tqdm
